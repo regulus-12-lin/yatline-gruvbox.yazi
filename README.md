@@ -38,6 +38,9 @@ Gruvbox theme for Yatline plugin.
 ``` bash
 git clone https://github.com/imsi32/yatline-gruvbox.yazi.git ~/.config/yazi/plugins/yatline-gruvbox.yazi
 ```
+```
+git clone https://github.com/imsi32/yatline-gruvbox.yazi.git %APPDATA%/Roaming/yazi/plugins/yatline-gruvbox.yazi
+```
 
 ## Usage
 Copy the following config to the `init.lua` file.
